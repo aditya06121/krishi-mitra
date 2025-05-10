@@ -43,7 +43,7 @@ Below are some screenshots of the application:
 
 ### Register Interface
 
-![register](assets/register.png)
+![register](assets/Register.png)
 
 ### E-Commerce Interface
 
