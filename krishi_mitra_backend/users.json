@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Aditya",
+    "email": "1@1",
+    "password": "12",
+    "occupation": "customer",
+    "age": "12",
+    "gender": true,
+    "phone": "123"
+  },
+  {
+    "name": "ash",
+    "email": "a@a",
+    "password": "12",
+    "occupation": "customer",
+    "age": "13",
+    "gender": true,
+    "phone": "123"
+  },
+  {
+    "name": "Aditya",
+    "email": "aditya@email.com",
+    "password": "123",
+    "occupation": "farmer",
+    "gender": false,
+    "phone": "9876543210"
+  }
+]
