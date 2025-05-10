@@ -73,6 +73,14 @@ Below are some screenshots of the application:
 
 ![piechart](assets/crop2.png)
 
+### Crop Advisor Interface
+
+![CropAdvisor](assets/cropAdvisor.jpeg)
+
+### Seller Dashboard Interface
+
+![SellerDashboard](assets/sellerDashboard.jpeg)
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
